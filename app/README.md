@@ -1,0 +1,1 @@
+JS script to send a notification of the length of a table for university jobs. runs every 2 days.
